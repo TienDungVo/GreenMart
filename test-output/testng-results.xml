@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-11T07:47:53 ICT" name="Default suite" finished-at="2024-04-11T07:47:54 ICT" duration-ms="578">
+    <groups>
+    </groups>
+    <test started-at="2024-04-11T07:47:53 ICT" name="Default test" finished-at="2024-04-11T07:47:54 ICT" duration-ms="578">
+      <class name="sof304.testNG.NV_Select">
+        <test-method is-config="true" signature="setup()[pri:0, instance:sof304.testNG.NV_Select@7e0b85f9]" started-at="2024-04-11T07:47:53 ICT" name="setup" finished-at="2024-04-11T07:47:53 ICT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testSelect()[pri:0, instance:sof304.testNG.NV_Select@7e0b85f9]" started-at="2024-04-11T07:47:53 ICT" name="testSelect" finished-at="2024-04-11T07:47:54 ICT" duration-ms="529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelect -->
+      </class> <!-- sof304.testNG.NV_Select -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

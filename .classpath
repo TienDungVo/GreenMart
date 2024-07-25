@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/DuAn1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="dist/lib/bridj-0.7.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/datechooser-swing-1.4.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/flatlaf-3.1.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/flatlaf-extras-3.1.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itextpdf-5.5.9.jar"/>
+	<classpathentry kind="lib" path="dist/lib/javase-3.3.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jcommon-1.0.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jfreechart-1.0.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mssql-jdbc-8.2.2.jre11.jar"/>
+	<classpathentry kind="lib" path="dist/lib/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="dist/lib/svgSalamander-1.1.4.jar"/>
+	<classpathentry kind="lib" path="dist/lib/Webcam.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/KiemThu/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
